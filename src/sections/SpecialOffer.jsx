@@ -37,7 +37,7 @@ const SpecialOffer = () => {
             textColor="text-slate-gray"
           />
         </div>
-      </div>``
+      </div>
     </section>
   );
 };
